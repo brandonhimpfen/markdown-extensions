@@ -1,0 +1,19 @@
+{
+  "name": "@brandonhimpfen/markdown-extensions",
+  "version": "1.0.0",
+  "description": "List of Markdown file extensions with small utilities",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    "types": "./index.d.ts",
+    "default": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "extensions.json"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
