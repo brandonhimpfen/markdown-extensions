@@ -1,5 +1,8 @@
 # markdown-extensions
 
+[![npm version](https://img.shields.io/npm/v/@brandonhimpfen/markdown-extensions.svg)](https://www.npmjs.com/package/@brandonhimpfen/markdown-extensions)
+[![license](https://img.shields.io/npm/l/@brandonhimpfen/markdown-extensions.svg)](LICENSE)
+
 A small, reliable utility that provides a canonical list of Markdown file extensions along with helper functions for detecting and working with them.
 
 Designed to be lightweight, predictable, and useful in real-world tooling such as static site generators, content pipelines, and repository automation.
